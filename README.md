@@ -23,7 +23,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,html,css,js,java,php,py,flutter" /><br>
     <img src="https://skillicons.dev/icons?i=dotnet,mysql,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=colab,jupyter,eclipse,figma,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=eclipse,figma,visualstudio,vscode" />
   </a>
 </p>
 <br>
