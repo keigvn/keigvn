@@ -21,9 +21,9 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,php,html,css,js,jquery,java,wordpress,bootstrap,php,laravel,py,react,flutter" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,mysql,sqlite,firebase,gcp,heroku,androidstudio,arduino,blender" /><br>
-    <img src="https://skillicons.dev/icons?i=codepen,eclipse,figma,godot,prisma,unity,visualstudio,vscode,ae,ai,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=php,html,css,js,java,php,py,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,mysql,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=colab,jupyter,eclipse,figma,visualstudio,vscode" />
   </a>
 </p>
 <br>
